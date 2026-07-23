@@ -148,7 +148,7 @@ void mouse_color_change(hid_device* handle){
     if (data_write < 0) {
         std::cout << "writen sucessfully" << std::endl;
     }
-}
+ }
 
 
 void mouse_mode_change(hid_device* handle){

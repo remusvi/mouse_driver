@@ -1,4 +1,4 @@
-## UHRU MOUSE SOFTWARE REVERSE ENGINEERED AND WRITTEN IN C++ USING HIDAPI
+## UHRU WM-09 mouse software protocol reverse engineered using wireshark
 
 - RUN WITH g++ main.cpp -I/opt/homebrew/include -L/opt/homebrew/lib -lhidapi -o mouse
 

@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-## UHRU WM-09 mouse software protocol reverse engineered using wireshark
-=======
 # Overview
 >>>>>>> b79967e (updated readme etc)
 
@@ -11,9 +8,6 @@ I wrote this software to get a better understanding of reverse engineering softw
 
 [Software Demo Video](https://youtu.be/mT8A0-3XPTc)
 
-<<<<<<< HEAD
-- Target interface is interface 2 for editing dpi and color modes.
-=======
 # Development Environment
 
 I used Zed as my code editor with the GCC compiler,
@@ -34,4 +28,4 @@ I used C++ 20 with the following libs [cstdint, iostream, vector, fstream, hidap
 - Make mode editing more user friendly
 - Add macro handeling
 - Save config bytes along with save state in file
->>>>>>> b79967e (updated readme etc)
+
